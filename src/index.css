@@ -1,0 +1,11 @@
+.receipt {
+  width: 300px;
+  margin: 40px auto;
+  padding: 20px;
+  border: 1px dashed #333;
+  font-family: monospace;
+}
+.row {
+  display: flex;
+  justify-content: space-between;
+}
